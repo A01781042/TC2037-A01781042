@@ -1,5 +1,6 @@
 ;DFA
 ;08-04-2022
+;Octavio Fenollosa A01781042
 
 #lang racket
 
